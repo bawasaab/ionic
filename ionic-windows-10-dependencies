@@ -1,0 +1,9 @@
+install python 2x(2.7.3)
+install java 8x(javac 1.8.0_212, openjdk version "1.8.0_212")
+install MS build tools 2013
+Microsoft Visual Studio 2015 Community
+install build tools( npm install --global --production windows-build-tools )
+npm install --global --production windows-build-tools@4.0.0
+
+ERROR in ./src/global.scss
+sudo npm install --save-dev  --unsafe-perm node-sass
